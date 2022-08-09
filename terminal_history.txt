@@ -1,0 +1,15 @@
+  500  printenv > /var/folders/yp/kpm0_dn56qj9j9r4d7vw24540000gn/T/tmp-97354gjdTODSuR8HZtxt
+  501  cd desktop
+  502  git clone https://github.com/avangelinac/crypto_wallet_fintech_finder.git
+  503  cd crypto_wallet_fintech_finder
+  504  cd add .
+  505  git add .
+  506  git commit -m "update python files"
+  507  git commit -m "add images folder"
+  508  git push origin main
+  509  git add. 
+  510  git add .
+  511  git commit -m "README files and images"
+  512  history 10 > terminal_history.txt
+  513  history 20 > terminal_history.txt
+  514  history 15 > terminal_history.txt
